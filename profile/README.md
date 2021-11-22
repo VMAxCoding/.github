@@ -4,4 +4,4 @@ VMAxCoding, Authenticated Interest Group by Vanke Meisha Academy. | 万科梅沙
 
 ## 微信公众号
 
-![qrcode_for_gh_fa5524edb30f_1280](D:\Users\Admin\Documents\GitHub\VMAxCoding\.github\profile\qrcode_for_gh_fa5524edb30f_1280.jpg)
+[![qrcode-for-gh-fa5524edb30f-1280.jpg](https://i.postimg.cc/sxMfJkC0/qrcode-for-gh-fa5524edb30f-1280.jpg)]()
