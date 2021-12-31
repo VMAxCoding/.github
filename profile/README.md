@@ -1,7 +1,2 @@
-# VMAxCoding
-
-VMAxCoding, Authenticated Interest Group by Vanke Meisha Academy. | 万科梅沙书院认证兴趣小组
-
-## 微信公众号
-
-[![qrcode-for-gh-fa5524edb30f-1280.jpg](https://i.postimg.cc/sxMfJkC0/qrcode-for-gh-fa5524edb30f-1280.jpg)]()
+<span><a href="https://github.com/VMAxCoding"><img align="left" width="15%" src="https://i.postimg.cc/sxMfJkC0/qrcode-for-gh-fa5524edb30f-1280.jpg"></img></a><h1>VMAxCoding</h1>
+<h4>VMAxCoding, Authenticated Interest Group by Vanke Meisha Academy. | 万科梅沙书院认证兴趣小组</h4></span>
